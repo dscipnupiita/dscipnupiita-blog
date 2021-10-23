@@ -6,3 +6,4 @@ Este repositorio es un blog para que puedan hacer su primera contribución y pue
 - [Axel Díaz](https://github.com/upiita-Emma-d)
 - [Luis Rodríguez](https://github.com/lalodsi) 
 - [Pablo Domínguez](https://github.com/pablomdd)
+- [Cesar Martin](https://github.com/kreytos23)
