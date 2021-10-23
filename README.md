@@ -7,3 +7,4 @@ Este repositorio es un blog para que puedan hacer su primera contribución y pue
 - [Luis Rodríguez](https://github.com/lalodsi) 
 - [Pablo Domínguez](https://github.com/pablomdd)
 - [Cesar Martin](https://github.com/kreytos23)
+- [Laura Bazaldua](https://github.com/LauraB22)
