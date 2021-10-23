@@ -1,4 +1,4 @@
-# DSC IPN UPIITA Blog
+# Google DSC IPN UPIITA Blog
 
 Este repositorio es un blog para que puedan hacer su primera contribución y puedan aprender el flujo de trabajo de GitHub.
 
